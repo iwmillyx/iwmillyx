@@ -19,6 +19,11 @@
 
 <hr>
 
+###
+
+
+
+
 
 ###
 
@@ -39,8 +44,6 @@
 <hr>
 
 <h3 align="left">Commits:</h3>
-
-###
 
 <img src="https://raw.githubusercontent.com/iwmillyx/iwmillyx/output/snake.svg" alt="Snake animation" />
 
