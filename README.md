@@ -41,10 +41,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
 
-<hr>
-
-<h3 align="left">Commits:</h3>
-
-<img src="https://raw.githubusercontent.com/iwmillyx/iwmillyx/output/snake.svg" alt="Snake animation" />
-
-###
