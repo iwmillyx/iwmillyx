@@ -2,7 +2,7 @@
 <img align="right" src="https://i.pinimg.com/564x/af/38/3f/af383f48f2d3ea0ae5bd7b505d22c2c9.jpg" alt="Imagem" style="margin-top: -30px; height: 150px; width: auto;" />
 
 <p align="left">
-  🌟 Estou no <strong>3º período</strong> de <strong>Ciência da Computação</strong> e sou apaixonada por <strong>cibersegurança</strong> e <strong>inteligência artificial</strong>.
+  🌟 Estou no <strong>4º período</strong> de <strong>Ciência da Computação</strong> e sou apaixonada por <strong>cibersegurança</strong> e <strong>inteligência artificial</strong>.
 </p>
 <p align="left">
   💖 Adoro explorar novas tecnologias e aprender mais sobre o universo da computação.
