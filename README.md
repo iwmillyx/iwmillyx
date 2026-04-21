@@ -1,4 +1,4 @@
-<h3 align="left">Olá! Eu sou a Iwmillyx, mas podem me chamar de Milly :)</h3>
+<h3 align="left">Olá! Eu sou a Emilly, mas podem me chamar de Milly :)</h3>
 <img align="right" src="https://i.pinimg.com/564x/af/38/3f/af383f48f2d3ea0ae5bd7b505d22c2c9.jpg" alt="Imagem" style="margin-top: -30px; height: 150px; width: auto;" />
 
 <p align="left">
